@@ -25,9 +25,9 @@ This project demonstrates the end-to-end process of building a scalable data pip
 
 **Architecture**
 
-
+![image](https://github.com/anushkauniyal20/Uber-ETL-Data-Pipeline/blob/main/architecture.jpg)
 
 
 **Data Model**
 
-
+![image](https://github.com/anushkauniyal20/Uber-ETL-Data-Pipeline/blob/main/Screenshot%202024-12-08%20232218.png)
