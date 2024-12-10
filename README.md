@@ -24,8 +24,10 @@ This project demonstrates the end-to-end process of building a scalable data pip
 **Python for Custom Logic**: Developed Python scripts to handle custom data transformation logic, integrating seamlessly with the Mage AI workflows.
 
 **Architecture**
+
 ![Image](https://github.com/user-attachments/assets/40c51596-d8a1-460e-a14b-2df15f833517)
 
 
 **Data Model**
+
 ![Image](https://github.com/user-attachments/assets/97c53d24-da03-4e7b-af93-9cb83477558d)
