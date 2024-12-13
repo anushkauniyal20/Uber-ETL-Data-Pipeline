@@ -1,4 +1,4 @@
-# Uber-ETL-Data-Pipeline
+# Uber-ETL-Data-Pipeline using GCP and Mage AI
 
 **Project Overview**
 This project demonstrates the end-to-end process of building a scalable data pipeline using Mage AI for ETL (Extract, Transform, Load) processes, integrated with Google Cloud Platform (GCP) for data storage, computation, and analytics. The final insights are visualized through an interactive dashboard created in Looker Studio (formerly Google Data Studio). The project showcases my ability to manage complex data workflows and deliver actionable insights using modern data engineering and cloud platforms.
